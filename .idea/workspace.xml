@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6723b020-a5bc-4039-9508-fc3770b77140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/best-charge.js" afterPath="$PROJECT_DIR$/src/best-charge.js" />
-    </list>
+    <list default="true" id="6723b020-a5bc-4039-9508-fc3770b77140" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -263,12 +259,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511093607495</updated>
       <workItem from="1511093609159" duration="902000" />
-      <workItem from="1511245088166" duration="7773000" />
+      <workItem from="1511245088166" duration="8000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8675000" />
+    <option name="totallyTimeSpent" value="8902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="24" width="1311" height="780" extended-state="6" />
